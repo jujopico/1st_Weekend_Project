@@ -139,6 +139,7 @@ li img {
     width:220px;
     justify-items: space-between;
     align-content: left;
+    font-size: h5;
 }
 
 .footer {
